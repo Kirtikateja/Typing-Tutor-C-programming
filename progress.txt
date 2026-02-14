@@ -1,0 +1,3 @@
+
+Name: kirti, Lesson: Difficult, Accuracy: 71.9%, WPM: 8.78, Mistakes: 9.00
+Name: shivum, Lesson: Easy, Accuracy: 83.1%, WPM: 28.59, Mistakes: 10.00
